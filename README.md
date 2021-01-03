@@ -32,6 +32,9 @@ https://github.com/i2pgram/i2pgram-desktop/blob/dev1/Telegram/SourceFiles/main.c
 <Дремучий_Шаман> для i2pgram ключики тут есть https://github.com/PluralityNET/PluralityServer/tree/master/sample-keys/nebula-sample-dc-keys
 <Дремучий_Шаман> это из патчей небулы
 <Дремучий_Шаман> ключи
+<x> Дремучий_Шаман, это те которые из апстрима или ваши собственные?
+<Дремучий_Шаман> это копипаста из небулы
+<Дремучий_Шаман> из апстрима
 ```
 
 OLDER INFO BELOW
