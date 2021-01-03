@@ -28,6 +28,10 @@ https://github.com/i2pgram/i2pgram-desktop/blob/dev1/Telegram/SourceFiles/main.c
 <Дремучесть> MTP::setRSAPubKey(index, strdup(buf.c_str()));
 <Дремучесть> ща примеры пуб.ключей дам
 <Дремучесть> вот какие-то https://github.com/i2pgram/i2pgram-clients/blob/master/tdesktop/dc_options.cpp.diff
+
+<Дремучий_Шаман> для i2pgram ключики тут есть https://github.com/PluralityNET/PluralityServer/tree/master/sample-keys/nebula-sample-dc-keys
+<Дремучий_Шаман> это из патчей небулы
+<Дремучий_Шаман> ключи
 ```
 
 OLDER INFO BELOW
